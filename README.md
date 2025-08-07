@@ -19,7 +19,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a training management application through Spring Boot**
-- 🌱 I'm currently learning: 📚 Angular 
+- 🌱 I'm currently learning: **📚 Angular** 
 - 💬 Ask me about: **💡 How to find robust approaches to solve complex problems**
 - ⚡ Fun fact: **🎢 100% of Junior Developers are in fact Juniors**
 
