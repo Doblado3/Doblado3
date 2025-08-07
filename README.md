@@ -30,5 +30,6 @@
 
  **<h3 align="left">Contact</h3>**
 
+<p align="left"><a href="mailto:Pablodoblado3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
